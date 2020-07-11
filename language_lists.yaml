@@ -1,0 +1,82 @@
+Adv_hedging:
+  - about
+  - thereabout
+  - somewhere
+  - generally
+  - rather
+  - usually
+  - sometimes
+  - often
+  - possibly
+V_hedging:
+  - believe
+  - appear
+  - seem
+  - think
+  - understand
+  - judge
+  - consider
+  - suppose
+  - struck
+  - suspect
+  - take
+  - conceive
+V_conj_hedging:
+  - should
+  - could
+  - may
+  - might
+Adj_hedging:
+  - quite
+  - several
+  - pretty
+  - much
+  - usual
+  - possible
+  - particularly
+  - confused
+Adv_intensifying:
+  - always
+  - never
+  - completely
+  - plenty
+  - very
+  - indeed
+  - forcibly
+  - exactly
+  - all
+  - plainly
+  - nothing
+  - remarkably
+  - undoubtably
+  - well
+  - entirely
+V_intensifying:
+  - observe
+  - assure
+  - know
+  - swear
+  - dare
+  - oblige
+Adj_intensifying:
+  - sure
+  - clear
+  - really
+  - certain
+  - positive
+  - well
+  - perfectly
+  - great
+  - impossible
+  - confident
+  - considerable
+  - immediately
+  - every
+  - 'false'
+  - seldom
+  - entire
+  - whole
+Yes_no:
+  - 'yes'
+  - 'no'
+
